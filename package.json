@@ -7,6 +7,14 @@
   "license": "MPL 2.0",
   "version": "0.1",
   "preferences": [
+    {
+      "name": "token",
+      "title": "token",
+      "type":"string",
+      "description":"The name that will identify your preferences within Cloud4all",
+      "value": "",
+      "hidden": true
+    },
   	{
 	  	"name": "invertColours",
   		"title": "Invert Colours",
