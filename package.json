@@ -46,14 +46,15 @@
   				"value": "XL",
   				"label": "X-Large"
   			}
-  		]
+  		],
+  		"value": "M"
   	},
   	{
-  		"name": "zoom",
+  		"name": "magnification",
   		"type": "integer",
   		"description": "Zoom Level on all pages. Ranges from 1 (100%) onwards (1.5 = 150%, 2 = 200%, etc.)",
   		"value": 1,
-  		"title": "Zoom Level"
+  		"title": "Magnification Level"
   	},
   	{
   		"name": "simplifier",
