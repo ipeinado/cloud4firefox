@@ -1,9 +1,66 @@
 {
   "name": "cloud4firefox",
   "title": "cloud4firefox",
-  "id": "jid1-g7ThZnoT4077oA",
-  "description": "a basic add-on",
-  "author": "",
+  "id": "cloud4firefox@cloud4all.info",
+  "description": "An add-on that changes css based on the preferences defined for Cloud4all",
+  "author": "Ignacio Peinado - Fundosa Technosite S.A.",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1",
+  "preferences": [
+  	{
+	  	"name": "invertColours",
+  		"title": "Invert Colours",
+  		"type": "bool",
+  		"description": "If active, invert all colours of the page",
+  		"value": false
+  	},
+  	{
+  		"name": "backgroundColor",
+  		"type": "color",
+  		"value": "#FFFFFF",
+  		"title": "Background color",
+  		"description": "Colour of the background of the pages"
+  	},
+  	{
+  		"name": "foregroundColor",
+  		"type": "color",
+  		"value": "#000000",
+  		"title": "Foreground color",
+  		"description": "will change the color of text in all pages"
+  	},
+  	{
+  		"name": "fontSize",
+  		"type": "radio",
+  		"title": "Font Size",
+  		"description": "Mean value of the size of the text (paragraphs, etc.)",
+  		"options": [
+  			{
+  				"value": "M",
+  				"label": "Medium"
+  			},
+  			{
+  				"value": "L",
+  				"label": "Large"
+  			},
+  			{
+  				"value": "XL",
+  				"label": "X-Large"
+  			}
+  		]
+  	},
+  	{
+  		"name": "zoom",
+  		"type": "integer",
+  		"description": "Zoom Level on all pages. Ranges from 1 (100%) onwards (1.5 = 150%, 2 = 200%, etc.)",
+  		"value": 1,
+  		"title": "Zoom Level"
+  	},
+  	{
+  		"name": "simplifier",
+  		"type": "bool",
+  		"title": "Simplifier",
+  		"description": "Removes all unnecessary elements (images, etc.) in all pages",
+  		"value": false
+  	}
+  ]
 }
