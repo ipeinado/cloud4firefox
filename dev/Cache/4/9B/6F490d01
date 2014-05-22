@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>wiki.gpii</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.11" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="wiki.gpii (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.gpii.net/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wiki.gpii Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.gpii.net/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gpii_wiki:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */
+</style>
+
+<script src="http://wiki.gpii.net/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":8090,"wgArticleId":1,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Main_Page","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgIsMainPage":true,"wgFCKEditorDir":"extensions/WYSIWYG/ckeditor/","wgFCKEditorExtDir":"extensions/WYSIWYG","wgFCKEditorToolbarSet":"Wiki","wgFCKEditorHeight":"0","wgCKeditorMagicWords":{"wikitags":["nowiki","includeonly","onlyinclude","noinclude","pre","gallery","source","syntaxhighlight"],"magicwords":["NOTOC","FORCETOC","TOC","NOEDITSECTION","NEWSECTIONLINK","NONEWSECTIONLINK","NOCONTENTCONVERT","NOCC","NOTITLECONVERT","NOTC","NOGALLERY","INDEX","NOINDEX","STATICREDIRECT","NOGALLERY","HIDDENCAT","START","END"],"datevars":["CURRENTYEAR","CURRENTMONTH","CURRENTMONTHNAME","CURRENTMONTHNAMEGEN","CURRENTMONTHABBREV","CURRENTDAY","CURRENTDAY2","CURRENTDOW","CURRENTDAYNAME","CURRENTTIME","CURRENTHOUR","CURRENTWEEK","CURRENTTIMESTAMP"],"wikivars":["SITENAME","SERVER","SERVERNAME","DIRMARK","SCRIPTPATH","CURRENTVERSION","CONTENTLANG","REVISIONID","REVISIONDAY","REVISIONDAY2","REVISIONMONTH","REVISIONYEAR","REVISIONTIMESTAMP","REVISIONUSER","FULLPAGENAME","PAGENAME","BASEPAGENAME","SUBPAGENAME","SUBJECTPAGENAME","TALKPAGENAME","NAMESPACE","ARTICLESPACE","TALKSPACE"],"parserhooks":["lc","lcfirst","uc","ucfirst","formatnum","#dateformat","padleft","padright","plural","grammar","#language","int","#tag","#int","#ns","#nse","#urlencode","#lcfirst","#ucfirst","#lc","#uc","#localurl","#localurle","#fullurl","#fullurle","#canonicalurl","#canonicalurle","#formatnum","#grammar","#gender","#plural","#numberofpages","#numberofusers","#numberofactiveusers","#numberofarticles","#numberoffiles","#numberofadmins","#numberingroup","#numberofedits","#numberofviews","#padleft","#padright","#anchorencode","#special","#defaultsort","#filepath","#pagesincategory","#pagesize","#protectionlevel","#namespace","#namespacee","#talkspace","#talkspacee","#subjectspace","#subjectspacee","#pagename","#pagenamee","#fullpagename","#fullpagenamee","#basepagename","#basepagenamee","#subpagename","#subpagenamee","#talkpagename","#talkpagenamee","#subjectpagename","#subjectpagenamee","#formatdate","#displaytitle"]},"wgCKeditorUseBuildin4Extensions":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"riched_use_toggle":1,"riched_start_disabled":1,"riched_use_popup":1,"riched_toggle_remember_state":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gpii_wiki:resourceloader:filter:minify-js:7:95f354d9997de150b3d7d6675ee3b747 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Main_Page skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">
+				<span dir="auto">Main Page</span>
+			</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From wiki.gpii</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Welcome_to_the_CLOUD4All.2FGPII_WIKI_.28Where_all_the_work_gets_done.29"><span class="tocnumber">1</span> <span class="toctext">Welcome to the CLOUD4All/GPII WIKI (Where all the work gets done)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#CALENDAR_AND_MAIL_LISTS"><span class="tocnumber">1.1</span> <span class="toctext">CALENDAR AND MAIL LISTS</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#DECISIONS"><span class="tocnumber">1.2</span> <span class="toctext">DECISIONS</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#CLOUD4All.2FGPII_Overview"><span class="tocnumber">1.3</span> <span class="toctext">CLOUD4All/GPII Overview</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#User_Involvement"><span class="tocnumber">1.3.1</span> <span class="toctext">User Involvement</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Communication"><span class="tocnumber">1.3.2</span> <span class="toctext">Communication</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Planning.C2.A0"><span class="tocnumber">1.4</span> <span class="toctext">Planning&#160;</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h1> <span class="mw-headline" id="Welcome_to_the_CLOUD4All.2FGPII_WIKI_.28Where_all_the_work_gets_done.29"> Welcome to the CLOUD4All/GPII WIKI (Where all the work gets done) </span></h1>
+<p><b>This is the working space for the CLOUD4ALL/GPII working groups.</b>
+</p>
+<ul><li>If you don't know what the Raising the Floor Consortium, Raising the Floor - International , CLOUD4All, and the GPII are...
+<ul><li>... then see <b><a href="/index.php/About_RFTC,_RtF-I,_CLOUD4All,_and_GPII" title="About RFTC, RtF-I, CLOUD4All, and GPII">About RFTC, RtF-I, CLOUD4All, and GPII</a></b>
+</li><li>If you want to follow what we are doing - then dive in below.
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<h2> <span class="mw-headline" id="CALENDAR_AND_MAIL_LISTS"> CALENDAR AND MAIL LISTS </span></h2>
+<ul><li>If you want go join in the discussions, our calendar - with all of our working meetings can be found at: <span style="font-size:medium;color:#ff0000;"><b><a rel="nofollow" class="external text" href="https://www.google.com/calendar/embed?src=n0t9vp1rg3t2fcj73edqdeqkjs%40group.calendar.google.com&amp;ctz=America/Chicago">CALENDAR </a></b>  </span>
+</li><li>and our List discussions are all at <span style="font-size:medium;color:#ff0000;"><b><a rel="nofollow" class="external text" href="http://lists.gpii.net">lists.gpii.net</a></b></span>
+</li></ul>
+<p><br />
+</p>
+<h2> <span class="mw-headline" id="DECISIONS"> DECISIONS </span></h2>
+<p>To help keep track of decisions we have created a special pages for logging decisions that have effect across GPII.
+</p>
+<ul><li>The <u><b><a href="/index.php/Glossary" title="Glossary">GLOSSARY page</a></b></u> is where TERMINOLOGY decisions will be logged
+</li><li>The <u><b><a href="/index.php/DECISIONS_LOG" title="DECISIONS LOG">DECISIONS LOG</a></b></u> page contains a reverse chronological listing decisions along with links back to the working pages where they are described more fully. &#160;&#160;&#160;
+</li></ul>
+<h2> <span class="mw-headline" id="CLOUD4All.2FGPII_Overview"> CLOUD4All/GPII Overview </span></h2>
+<p>The work of CLOUD4All/GPII is divided into the following major areas
+</p>
+<ul><li>Each has its own working groups, mail list, and work areas
+</li><li>Links to the home pages for each working group are provided below
+<ul><li>All of the information about the group, its meetings, lists, and links to all work areas for the group can be found from there
+</li></ul>
+</li><li>The WP references are to WorkPackages in the&#160;CLOUD4All Project that is currently exploring and building&#160;many of the core components of the GPII (as can be seen below)
+<ul><li>Others are welcome to join in and collaborate on these efforts however. &#160;Just link into the work here and using the mail lists at &#160; lists.gpii.net.&#160;
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<ol><li><span style="font-size:large"><span style="color:#ff0000"><b><a href="/index.php/Architecture" title="Architecture">Architecture</a>&#160;</b></span></span>
+<ul><li>How this work is organized; meeting times; contributors; etc. &#160;(WP105)
+</li><li>Overview of the CLOUD4All/GPII architecture flow and components
+</li><li>Details on inter-module communication interfaces
+</li><li><span style="font-size:medium;"><b><a href="/index.php/Security_and_Privacy" title="Security and Privacy">Security and Privacy</a></b></span> from infrastructure implementation standpoint. &#160;(see <b>Policies</b> below for discussion from policy standpoint)&#160;
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/Preferences" title="Preferences">Preferences</a></b></span>
+<ul><li>User Preferences including Standards, the <span style="font-size:medium;"><b><a href="/index.php/Common_Terms_Registry" title="Common Terms Registry">Common Terms Registry</a></b></span> and all gathered data on User Needs and Preferences (interfaces and materials) &#160;(WP101, WP102, WP103,WP201,WP202,
+</li><li>Ontologies and ontological tools &#160; (WP101,WP201)
+</li><li>Matchmaking (all REAL-TIME Matchmaking work, See <b><span style="font-size:medium;"><a href="/index.php?title=Shopping_Aid&amp;action=edit&amp;redlink=1" class="new" title="Shopping Aid (page does not exist)">Shopping Aid</a></span></b> under <b><span style="font-size:medium;"><a href="/index.php/Unified_Listing_and_MarketPlace" title="Unified Listing and MarketPlace">Unified Listing and MarketPlace</a></span></b> for "pre-sale" matchmaking) &#160;(WP204, WP205))
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/Discovery_Aids" title="Discovery Aids">Discovery Aids</a></b></span>
+<ul><li>Tools to help users (working with professionals if needed and available) discover what will help them and record their Needs and Preferences
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/Vendors_and_Implementers" title="Vendors and Implementers">Vendors and Implementers</a>&#160; &#160;</b></span>
+<ul><li>Information on all of the current implementations (products, systems, etc) &#160; &#160; &#160;(SP3 all WPs) &#160; (WP504)
+</li><li>APIs and assistance to vendors and implementors in making their products CLOUD4All/GPII compatible &#160; (WP105, and all SP3)
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/Unified_Listing_and_MarketPlace" title="Unified Listing and MarketPlace">Unified Listing and MarketPlace</a>&#160;</b></span>
+<ul><li>Unified Listing - work on creating the Federated Listing of all Open and Closed source, Commercial and Free, Add-on and built-in access features. &#160;(WP203)
+</li><li>GPII Marketplace - work to create a Marketplace for "purchasing" commercial and free Access solutions&#160;
+</li><li>Shopping Aid - development of "Pre-sale" matching aid to help users find thing in Unified Listing (and marketplace) based on NP Profiles (See also REAL-TIME <span style="font-size:medium;"><b><a href="/index.php/Matchmaking" title="Matchmaking">Matchmaking</a></b></span>)
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/Developers_Space" title="Developers Space">Developers Space</a></b></span>
+<ul><li>Working on gathering components and Frames for use by developers
+</li><li>Work on gathering Document and human resources to support new developers
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/Testing" title="Testing">Testing</a></b></span>
+<ul><li>Rules and policies governing testing within RtF/CLOUD4All/GPII &#160; (WP401) &#160;(Also See Ethics Below)
+</li><li>Testing within CLOUD4All &#160; &#160;(WP402, WP403)
+</li><li>Other testing activities
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/Demonstrations" title="Demonstrations">Demonstrations</a></b></span>
+<ul><li>Plans for Demonstration systems and events &#160; &#160;
+</li><li>Work on creation of an on-line demonstration system &#160; &#160;(WP404)
+</li><li>Work on creating live demonstrations of CLOUD4All/GPII &#160; &#160;(WP502)
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/Policies" title="Policies">Policies</a></b> </span>of CLOUD4All/GPII
+<ul><li>The IPR policies and procedures governing this work including templates for use in our code
+</li><li>Ethics Policies &#160;(WP104, WP501/A501.3) &#160; (Ethics gateway is in Architecture)
+</li><li>Security and Privacy Policies (see also architecture for security implementations)
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/Use_Cases" title="Use Cases" class="mw-redirect">Use Cases and Implementations</a></b></span>
+</li></ol>
+<h4> <span class="mw-headline" id="User_Involvement"> <span style="font-size:large">User Involvement</span> </span></h4>
+<ol><li><span style="font-size:large"><b><a href="/index.php/User_Involvement_in_Research_and_Dev" title="User Involvement in Research and Dev">User Involvement in Research and Dev</a></b> </span>of CLOUD4All/GPII
+</li><li><span style="font-size:large"><b><a href="/index.php/User_Involvement_in_Testing" title="User Involvement in Testing">User Involvement in Testing</a></b> </span>of CLOUD4All/GPII
+</li></ol>
+<h4> <span class="mw-headline" id="Communication"> <span style="font-size:large">Communication</span> </span></h4>
+<ul><li><b><span style="font-size:large"><a href="/index.php/Outreach" title="Outreach">Outreach</a>&#160; </span>(WP502, WP503, WP504)</b>
+<ul><li>Conferences
+</li><li>Hackathons
+</li><li>Webinars
+</li><li>Concertation efforts
+<ul><li> <a href="/index.php/Network_of_external_collaborators_and_concertation_actions" title="Network of external collaborators and concertation actions">Network of external collaborators and concertation actions</a>
+</li></ul>
+</li><li>Demonstrations
+</li><li>Powerpoints
+</li></ul>
+</li><li><span style="font-size:large"><b><a href="/index.php/PROTECTION_OF_IPR" title="PROTECTION OF IPR">PROTECTION OF IPR</a></b></span>
+</li><li><span style="font-size:large"><b><a href="/index.php/Contact_Information" title="Contact Information">Contact Information</a></b></span>
+</li><li><span style="font-size:large"><b><a href="/index.php/Mailing_Lists" title="Mailing Lists">Mailing Lists</a></b></span>
+</li><li><span style="font-size:large"><b><a href="/index.php/Regular_meetings" title="Regular meetings">Regular meetings</a></b></span>
+</li><li><span style="font-size:large"><b><a href="/index.php/Glossary" title="Glossary">Glossary</a></b></span>
+</li></ul>
+<h2> <span class="mw-headline" id="Planning.C2.A0"> Planning&#160; </span></h2>
+<ul><li><b><span style="font-size:medium"><a href="/index.php/GPII_Roadmap" title="GPII Roadmap">GPII Roadmap</a></span></b>
+</li><li> <a rel="nofollow" class="external text" href="https://www.google.com/calendar/embed?src=n0t9vp1rg3t2fcj73edqdeqkjs%40group.calendar.google.com&amp;ctz=America/Chicago">GPII Public Calendar</a>.
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 55/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gpii_wiki:pcache:idhash:1-0!*!0!!en!*!* and timestamp 20140205162725 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://wiki.gpii.net/index.php?title=Main_Page&amp;oldid=8090">http://wiki.gpii.net/index.php?title=Main_Page&amp;oldid=8090</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks catlinks-allhidden'></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Main+Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/index.php/Main_Page"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/index.php?title=Talk:Main_Page&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/index.php/Main_Page" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/index.php?title=Main_Page&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/index.php?title=Main_Page&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/index.php" id="searchform">
+				<div>
+			<input type="search" name="search" title="Search wiki.gpii [f]" accesskey="f" id="searchInput" />			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />					<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(/skins/common/images/gpii_logo.png);" href="/index.php/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- GPII Implementation -->
+<div class="portal" id='p-GPII_Implementation'>
+	<h5>GPII Implementation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Architecture"><a href="/index.php/Architecture">Architecture</a></li>
+			<li id="n----Architecture-Overview"><a href="/index.php/Architecture_Overview">-- Architecture Overview</a></li>
+			<li id="n----APIs"><a href="/index.php/Architecture_APIs">-- APIs</a></li>
+			<li id="n-Profiles"><a href="/index.php/Profiles">Profiles</a></li>
+			<li id="n-----Preference-Editors-Design"><a href="/index.php/User_Preferences_UX">--- Preference Editors Design</a></li>
+			<li id="n-----User-Preferences"><a href="/index.php/User_Preferences">--- User Preferences</a></li>
+			<li id="n-----Materials-.26-Solutions"><a href="/index.php/Materials_and_Solutions">--- Materials &amp; Solutions</a></li>
+			<li id="n-----Matchmaking"><a href="/index.php/Matchmaking">--- Matchmaking</a></li>
+			<li id="n-Vendors.2FImplementers"><a href="/index.php/Vendors_and_Implementers">Vendors/Implementers</a></li>
+			<li id="n-----Implementations"><a href="/index.php/Implementations">--- Implementations</a></li>
+			<li id="n-----APIs"><a href="/index.php/Implementation_APIs">--- APIs</a></li>
+			<li id="n-Unified-Listing-and-MarketPlace"><a href="/index.php/Unified_Listing_and_MarketPlace">Unified Listing and MarketPlace</a></li>
+			<li id="n-Testing"><a href="/index.php/Testing">Testing</a></li>
+			<li id="n-----Cloud4All-Testing"><a href="/index.php/Cloud4All_Testing">--- Cloud4All Testing</a></li>
+			<li id="n-----Demonstration-System"><a href="/index.php/Demonstration_System">--- Demonstration System</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /GPII Implementation -->
+
+<!-- User Involvement -->
+<div class="portal" id='p-User_Involvement'>
+	<h5>User Involvement</h5>
+	<div class="body">
+		<ul>
+			<li id="n-in-Research-and-Dev"><a href="/index.php/User_Involvement_in_Research_and_Dev">in Research and Dev</a></li>
+			<li id="n-in-Testing"><a href="/index.php/User_Involvement_in_Testing">in Testing</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /User Involvement -->
+
+<!-- Developers Space -->
+<div class="portal" id='p-Developers_Space'>
+	<h5>Developers Space</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Components"><a href="/index.php/Developer_Space_Components">Components</a></li>
+			<li id="n-Resources"><a href="/index.php/Developer_Space_Resources">Resources</a></li>
+			<li id="n-Configuration"><a href="/index.php/Configuration">Configuration</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Developers Space -->
+
+<!-- Communication -->
+<div class="portal" id='p-Communication'>
+	<h5>Communication</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Contact-Information"><a href="/index.php/Contact_Information">Contact Information</a></li>
+			<li id="n-Mailing-Lists"><a href="/index.php/Mailing_Lists">Mailing Lists</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Communication -->
+
+<!-- Other -->
+<div class="portal" id='p-Other'>
+	<h5>Other</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Dissemination-plan-and-activities"><a href="/index.php/Dissemination_plan_and_activities_(WP502)">Dissemination plan and activities</a></li>
+			<li id="n-Network-of-external-collaborators-and-concertation-actions"><a href="/index.php/Network_of_external_collaborators_and_concertation_actions">Network of external collaborators and concertation actions</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Other -->
+
+<!-- Special Pages -->
+<div class="portal" id='p-Special_Pages'>
+	<h5>Special Pages</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Site-Map"><a href="/index.php/Special:AllPages">Site Map</a></li>
+			<li id="n-Home-Page"><a href="/index.php/Main_Page">Home Page</a></li>
+			<li id="n-portal"><a href="/index.php/Wiki.gpii:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-currentevents"><a href="/index.php/Wiki.gpii:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Special Pages -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Tools</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Main_Page" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Main_Page" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li><a href="/index.php?title=Main_Page&amp;printable=yes" rel="alternate">Printable version</a></li>
+			<li id="t-permalink"><a href="/index.php?title=Main_Page&amp;oldid=8090" title="Permanent link to this revision of the page">Permanent link</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 January 2014, at 10:47.</li>
+											<li id="footer-info-viewcount">This page has been accessed 78,678 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/index.php/Wiki.gpii:Privacy_policy" title="Wiki.gpii:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/index.php/Wiki.gpii:About" title="Wiki.gpii:About">About wiki.gpii</a></li>
+											<li id="footer-places-disclaimer"><a href="/index.php/Wiki.gpii:General_disclaimer" title="Wiki.gpii:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script src="http://wiki.gpii.net/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<!-- Served in 0.074 secs. -->
+	</body>
+</html>
